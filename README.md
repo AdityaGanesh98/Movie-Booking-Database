@@ -17,6 +17,7 @@ This project is aimed at developing a ticket reservation system for a Cinema Hal
 
 <br>
 <br>
+
 ## Screenshots
 
 <p>
